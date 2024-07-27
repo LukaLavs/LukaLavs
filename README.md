@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LukaLavs
 - 👀 I’m interested in art and math
 - 📫 Reach me via lavsluka@gmail.com
-- ⚡ Fun fact: 739397 is prime.
+- ⚡ Fun fact: In my phone number there exists 9 different primes.
 
 <!---
 LukaLavs/LukaLavs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
